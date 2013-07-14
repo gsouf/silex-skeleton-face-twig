@@ -1,0 +1,12 @@
+{
+    "require": {
+        "silex/silex": "1.*",
+        "symfony/twig-bridge"   : "2.1.*",
+        "symfony/form"          : "v2.3.0",
+        "symfony/validator"     : "v2.3.1",
+        "symfony/translation"   : "~2.2",
+        "symfony/config"        : "dev-master",
+        "face/face"             : "dev-master",
+        "face/silex"            : "dev-master"
+    }
+}
